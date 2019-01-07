@@ -8,7 +8,9 @@ The popularization and low-cost of electronic devices and the rise of large-scal
 
 In most cases, sensors are seen as "things" dispersed in the environment, which send data via the network that is received and analyzed in real time. There are several applications of IoT such as eHealth, agriculture, and industry 4.0.  Any of these applications can be potentially harmful if one or more sensors are compromised, and this problem becomes harder to manage as the number of sensors increases.
 
-Thus, several investigations have been focusing on mechanisms like anomaly detection algorithms to ensure the integrity of data being pre-processed by embedded systems at the edge of the network. However, none of these studies focus on the impact caused by anomaly detection algorithms to the power consumption and temperature of these devices. Thus, in this investigation, we compare six anomaly detection algorithms regarding performance, accuracy, power consumption, and temperature.
+In this context, there is a discussion around mechanisms like anomaly detection algorithms to ensure the integrity of data being pre-processed by embedded systems at the edge of the network. Several investigations point to the relevance of controlling the temperature of embedded systems since it can affect not only the reliability, but also the performance, power, and cost of these devices. Besides, embedded systems are usually battery-dependent, so there is a concern in finding ways to reduce their power consumption without sacrificing performance. 
+
+Several investigations point to the relevance of analyzing the feasibility of running anomaly detection algorithms in embedded devices to reduce the amount of data being transferred to the cloud and to minimize the response delay of these devices. However, none of these studies focus on the impact caused by anomaly detection algorithms to the power consumption and temperature of these devices. Thus, in this investigation, we compare six anomaly detection algorithms regarding performance, accuracy, power consumption, and temperature.
 
 # Anomaly Detection Techniques
 
