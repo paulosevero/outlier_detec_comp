@@ -26,11 +26,13 @@ Isolation Forest creates random trees sub-sets of data, and anomalies are isolat
 
 OCSVM creates a representational model of normal training data to detect outliers. It considers an outlier every instance that is too different from the built model.
 
-### Stochastic Outlier Selection (SOS)
+### LSCP: Locally Selective Combination of Parallel Outlier Ensembles
 
 Employs the concept of affinity to quantify the relationship from one data point to another data point. A data point is selected as an outlier when all the other data points have insufficient affinity with it. 
 
 ### Clustering-Based Local Outlier Factor (CBLOF)
+
+### Principal Component Analysis (PCA)
 
 # Evaluation
 
