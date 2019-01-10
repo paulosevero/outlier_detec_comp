@@ -1,0 +1,322 @@
+Script started on Thu 10 Jan 2019 04:30:37 PM UTC
+]0;ubuntu@tegra-ubuntu: ~/pyod/notebooks[01;32mubuntu@tegra-ubuntu[00m:[01;34m~/pyod/notebooks[00m$ exitresetsudo bash executions.sh 
+[sudo] password for ubuntu: 
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Histogram-base Outlier Detection (HBOS)
+ROC:0.7147, precision @ rank n:0.059, execution time: 3.9399s
+RAM Usage: 1295.0
+CPU Usage: 14.0%
+GPU Usage: 0.0
+Temperature: 38.65ºC
+Power Consumption: 198.11111111111111mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Histogram-base Outlier Detection (HBOS)
+ROC:0.7147, precision @ rank n:0.059, execution time: 4.0204s
+RAM Usage: 1270.3333333333333
+CPU Usage: 13.88888888888889%
+GPU Usage: 0.0
+Temperature: 35.3ºC
+Power Consumption: 200.73684210526315mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Histogram-base Outlier Detection (HBOS)
+ROC:0.7147, precision @ rank n:0.059, execution time: 3.9939s
+RAM Usage: 1270.4444444444443
+CPU Usage: 13.777777777777779%
+GPU Usage: 0.0
+Temperature: 33.58888888888888ºC
+Power Consumption: 195.47368421052633mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Cluster-based Local Outlier Factor
+ROC:0.7868, precision @ rank n:0.0263, execution time: 8.9305s
+RAM Usage: 1295.6153846153845
+CPU Usage: 14.76923076923077%
+GPU Usage: 2.769230769230769
+Temperature: 32.699999999999996ºC
+Power Consumption: 191.2mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Cluster-based Local Outlier Factor
+ROC:0.7868, precision @ rank n:0.0263, execution time: 8.9208s
+RAM Usage: 1295.3846153846155
+CPU Usage: 14.76923076923077%
+GPU Usage: 0.0
+Temperature: 32.215384615384615ºC
+Power Consumption: 190.86666666666667mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Cluster-based Local Outlier Factor
+ROC:0.7868, precision @ rank n:0.0263, execution time: 8.9628s
+RAM Usage: 1295.5384615384614
+CPU Usage: 14.76923076923077%
+GPU Usage: 0.0
+Temperature: 31.76153846153846ºC
+Power Consumption: 193.73333333333332mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Isolation Forest
+ROC:0.8929, precision @ rank n:0.1079, execution time: 37.6453s
+RAM Usage: 1553.642857142857
+CPU Usage: 15.619047619047619%
+GPU Usage: 1.0714285714285714
+Temperature: 32.38333333333335ºC
+Power Consumption: 214.79166666666666mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Isolation Forest
+ROC:0.8929, precision @ rank n:0.1079, execution time: 37.6039s
+RAM Usage: 1553.0
+CPU Usage: 15.619047619047619%
+GPU Usage: 0.0
+Temperature: 32.79285714285716ºC
+Power Consumption: 215.85416666666666mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Isolation Forest
+ROC:0.8929, precision @ rank n:0.1079, execution time: 37.6803s
+RAM Usage: 1551.547619047619
+CPU Usage: 15.619047619047619%
+GPU Usage: 0.6904761904761905
+Temperature: 32.99761904761906ºC
+Power Consumption: 215.85416666666666mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  K Nearest Neighbors (KNN)
+ROC:0.7806, precision @ rank n:0.0979, execution time: 128.0214s
+RAM Usage: 1313.090909090909
+CPU Usage: 15.878787878787879%
+GPU Usage: 0.7272727272727273
+Temperature: 33.856060606060545ºC
+Power Consumption: 193.67105263157896mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  K Nearest Neighbors (KNN)
+ROC:0.7806, precision @ rank n:0.0979, execution time: 128.4174s
+RAM Usage: 1313.5075757575758
+CPU Usage: 15.878787878787879%
+GPU Usage: 0.5757575757575758
+Temperature: 34.41060606060599ºC
+Power Consumption: 194.01311475409835mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  K Nearest Neighbors (KNN)
+ROC:0.7806, precision @ rank n:0.0979, execution time: 128.0289s
+RAM Usage: 1313.5454545454545
+CPU Usage: 15.878787878787879%
+GPU Usage: 0.3409090909090909
+Temperature: 34.49015151515146ºC
+Power Consumption: 193.98684210526315mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Local Outlier Factor (LOF)
+ROC:0.5557, precision @ rank n:0.0426, execution time: 190.7302s
+RAM Usage: 1374.4536082474226
+CPU Usage: 15.917525773195877%
+GPU Usage: 0.4381443298969072
+Temperature: 35.21855670103085ºC
+Power Consumption: 194.9086859688196mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Local Outlier Factor (LOF)
+ROC:0.5557, precision @ rank n:0.0426, execution time: 191.3351s
+RAM Usage: 1374.3846153846155
+CPU Usage: 15.917948717948718%
+GPU Usage: 0.40512820512820513
+Temperature: 35.984615384615296ºC
+Power Consumption: 195.24444444444444mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Local Outlier Factor (LOF)
+ROC:0.5557, precision @ rank n:0.0426, execution time: 190.3322s
+RAM Usage: 1373.7886597938145
+CPU Usage: 15.917525773195877%
+GPU Usage: 0.2268041237113402
+Temperature: 36.49432989690716ºC
+Power Consumption: 195.54464285714286mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Minimum Covariance Determinant (MCD)
+ROC:0.6964, precision @ rank n:0.019, execution time: 204.0031s
+RAM Usage: 1352.6908212560386
+CPU Usage: 15.922705314009661%
+GPU Usage: 0.3526570048309179
+Temperature: 36.43526570048301ºC
+Power Consumption: 200.5mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Minimum Covariance Determinant (MCD)
+ROC:0.6964, precision @ rank n:0.019, execution time: 198.5239s
+RAM Usage: 1352.7326732673268
+CPU Usage: 15.92079207920792%
+GPU Usage: 0.4207920792079208
+Temperature: 36.384653465346474ºC
+Power Consumption: 200.73931623931625mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Minimum Covariance Determinant (MCD)
+ROC:0.6964, precision @ rank n:0.019, execution time: 200.372s
+RAM Usage: 1352.5882352941176
+CPU Usage: 15.92156862745098%
+GPU Usage: 0.553921568627451
+Temperature: 36.66078431372541ºC
+Power Consumption: 201.0550847457627mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Angle-based Outlier Detector (ABOD)
+ROC:0.7412, precision @ rank n:0.058, execution time: 299.1839s
+RAM Usage: 1335.950331125828
+CPU Usage: 15.947019867549669%
+GPU Usage: 0.5364238410596026
+Temperature: 37.528476821192115ºC
+Power Consumption: 189.44238975817925mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Angle-based Outlier Detector (ABOD)
+ROC:0.7412, precision @ rank n:0.058, execution time: 302.641s
+RAM Usage: 1336.0522875816994
+CPU Usage: 15.947712418300654%
+GPU Usage: 0.4542483660130719
+Temperature: 37.84934640522878ºC
+Power Consumption: 189.51617440225036mA
+
+
+****************************************
+** Process Found. Monitoring Started! **
+****************************************
+
+
+
+Algorithm:  Angle-based Outlier Detector (ABOD)
+ROC:0.7412, precision @ rank n:0.058, execution time: 302.8303s
+RAM Usage: 1336.1339869281046
+CPU Usage: 15.947712418300654%
+GPU Usage: 0.43790849673202614
+Temperature: 37.91274509803931ºC
+Power Consumption: 189.60056258790436mA
+]0;ubuntu@tegra-ubuntu: ~/pyod/notebooks[01;32mubuntu@tegra-ubuntu[00m:[01;34m~/pyod/notebooks[00m$ exit
+exit
+
+Script done on Thu 10 Jan 2019 06:02:26 PM UTC
