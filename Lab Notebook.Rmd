@@ -1,0 +1,30 @@
+---
+title: "Comparison of Anomaly Detection Algorithms"
+output: html_notebook
+---
+
+
+```{r}
+library(dplyr)
+library(ggplot2)
+dataset <- read.delim("dataset.csv", sep = ",", dec = ",")
+dataset
+```
+
+```{r}
+
+dataset %>% select(Algorithm, EDP) %>% ggplot(aes(x = Algorithm, y = EDP)) + geom_bar(stat = "identity") +
+theme_bw() +
+theme(axis.text.x = element_text(size = 10, angle = 45, hjust = 1),
+axis.text.y = element_text(size = 10),
+axis.title.x = element_text(size = 12, face = "bold"),
+axis.title.y = element_text(size = 12, face = "bold")) +
+labs(x = "Algorithm", y = "Energy-Delay Product\n") +
+scale_y_log10()
+
+```
+
+
+
+
+
