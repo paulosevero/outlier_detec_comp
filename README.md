@@ -38,5 +38,7 @@ Employs the concept of affinity to quantify the relationship from one data point
 
 # Results
 
+The results can be found here: [Google Drive](https://drive.google.com/drive/folders/1znZlmrKfY798fKJ0B9XrLu7yubk_PajU?usp=sharing)
+
 # Conclusion
 
