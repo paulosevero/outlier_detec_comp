@@ -21,7 +21,7 @@ axis.title.x = element_text(size = 12, face = "bold"),
 axis.title.y = element_text(size = 12, face = "bold")) +
 labs(x = "Algorithm", y = "Energy-Delay Product\n") +
 scale_y_log10()
-
+ggsave("edp.pdf")
 ```
 
 
