@@ -38,8 +38,6 @@ The Histogram-Based Outlier Score (HBOS) algorithm first creates an univariate h
 
 The Angle-Based Outlier Detector (ABOD) focuses in high-dimensional data, were common approaches tend to deteriorate due to the "curse of dimensionality". Contrary to popular algorithms, ABOD considers the variance of the angles between the different vectors of data objects as a property to measure if an object is an outlier. If the spectrum of observed angles for a point is broad, the point is surrounded by others and is probably located inside a cluster. Otherwise, it is believed to be outside of grouped sets of points, thus is considered an outlier. The measured distance between objects is used to normalize the results.
 
-# Evaluation
-
 # Results
 
 The results can be found here: [Google Drive](https://docs.google.com/spreadsheets/d/1PtBshYVUkUXGbmKk0uXUGOTbpasH3pdz1mF6wgll7uA/edit?usp=sharing)
